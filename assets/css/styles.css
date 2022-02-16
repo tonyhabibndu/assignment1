@@ -7,6 +7,7 @@ header {
     height: 60px;
 }
 .nav {
+    align-items: center;
     display: flex;
     justify-content: space-around;
     color: white;
